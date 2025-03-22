@@ -16,7 +16,7 @@ languages:
 -->
 
 # Azure Functions
-## Using Azure Functions OpenAI trigger and bindings extension to import data and query with Azure Open AI and Azure AI Search
+## Using Azure Functions OpenAI trigger and bindings extension to import data and query with Azure OpenAI and Azure AI Search
 
 This sample contains an Azure Function using OpenAI bindings extension to highlight OpenAI retrieval augmented generation with Azure AI Search.
 
